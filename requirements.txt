@@ -1,0 +1,4 @@
+pyCIOT
+influxdb_client
+pandas
+scikit-learn
